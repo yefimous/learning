@@ -8,7 +8,7 @@
 #>
 [CmdletBinding()]
 param(
-    [string] $LocalFile  = 'C:\Users\user1\Documents\50988aa7_5GB.dat.dat',
+    [string] $LocalFile  = 'C:\Users\user1\Documents\50988aa7_5GB.dat',
     [string] $RemoteHost = '149.104.76.115',
     [string] $RemoteUser = 'root',
     [string] $RemoteDir  = '/home/baby',
